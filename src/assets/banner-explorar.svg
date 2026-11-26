@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 220">
+  <rect width="960" height="220" fill="#ffffff"/>
+  <circle cx="840" cy="40" r="140" fill="#B7B7B7" opacity="0.45"/>
+  <circle cx="120" cy="200" r="110" fill="#EA580C" opacity="0.25"/>
+  <text x="48" y="108" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="38" font-weight="700">Explorador de Productos</text>
+  <text x="48" y="148" fill="#E5E7EB" font-family="system-ui, sans-serif" font-size="18">Consumo de datos con Axios y Fetch en tiempo real</text>
+</svg>

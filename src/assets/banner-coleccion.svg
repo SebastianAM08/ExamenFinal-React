@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 220">
+  <rect width="960" height="220" fill="#B7B7B7"/>
+  <circle cx="860" cy="180" r="130" fill="#ffffff" opacity="0.5"/>
+  <circle cx="90" cy="30" r="95" fill="#EA580C" opacity="0.3"/>
+  <text x="48" y="108" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="38" font-weight="700">Mi Carrito</text>
+  <text x="48" y="148" fill="#E5E7EB" font-family="system-ui, sans-serif" font-size="18">Estado global administrado con Zustand</text>
+</svg>
