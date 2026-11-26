@@ -2,12 +2,12 @@ import { useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
 
 import logo from '../assets/logo.svg';
-import { useAppStore } from '../store/useAppStore.js';
+import { useCarritoStore } from '../store/UseCarritoStore';
 
 function Header() {
   const navigate = useNavigate();
 
-  const totalUnidades = useAppStore((state) =>
+  const totalUnidades = useCarritoStore((state) =>
     state.items.reduce((acc, item) => acc + item.cantidad, 0)
   );
 
