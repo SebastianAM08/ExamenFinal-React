@@ -1,7 +1,7 @@
 import { create } from 'zustand';
 import { persist } from 'zustand/middleware';
 
-export const useAppStore = create(
+export const useCarritoStore = create(
   persist(
     (set) => ({
   items: [],
